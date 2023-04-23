@@ -1,11 +1,12 @@
 
 <h1> Hi there! My name Afreen and I'm interested in: </h1>
-• Web development
-• Game development
-• Cyber security 
-• Machine Learning
-• Cloud computing 
-• And many more! 
+<ul>
+  <li>Web development</li>
+  <li>Game development</li>
+  <li>Cyber security</li>
+  <li>Machine Learning</li>
+  <li>Cloud computing</li>
+  <li>And many more!</li>
 
 Skills: Here are a few programming languages and technologies that I am currently learning as a beginner:
 • Java
