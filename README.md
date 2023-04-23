@@ -1,16 +1,47 @@
-### Hi there 👋
 
-<!--
-**AfreenInnovates/AfreenInnovates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
 
-Here are some ideas to get you started:
+<body>
+  <h1>My Awesome GitHub Readme</h1>
+  <img src="https://placeimg.com/640/480/tech" alt="A cool tech image">
+  <p>This is a project that does X, Y, and Z.</p>
+  <p>Want to contribute? Fork this repo and submit a pull request!</p>
+</body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+body {
+  background-color: #f5f5f5;
+}
+
+
+h1 {
+  color: #333;
+  font-size: 36px;
+  text-align: center;
+}
+
+/* Style the image */
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+
+p {
+  color: #555;
+  font-size: 18px;
+  text-align: center;
+}
+
+
+p:last-child {
+  color: #333;
+  font-size: 20px;
+  text-align: center;
+}
+
+
