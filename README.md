@@ -49,7 +49,7 @@
     </div>
      <hr>
   <h3>⚡ Fun fact...</h3>
-  <h4>My brain hurts when I try to learn JavaScript😂</h4>
+  <h4>My brain hurts when I try to learn web development😂</h4>
      
   <hr>
      <h4>Thank you for stopping by, and I hope to connect with you soon!🙂 </h4>
