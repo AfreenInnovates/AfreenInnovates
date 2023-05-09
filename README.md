@@ -21,11 +21,12 @@
   <h3>🌱 I'm currently learning python!</h3><h6>Take a peek at my GitHub repositories to explore my current projects :)</h6>
   <h3>I'm interested to explore many fields such as:</h3>
     <ul>
-      <li>Web development</li>
+      <li>DevOps</li>
       <li>Game development</li>
       <li>Artificial intelligence</li>
       <li>Machine learning</li>
-      <li>Cloud Computing</li>
+      <li>Cloud computing</li>
+      <li>Web development</li>
       And many more!
     </ul>
   <h4>Although I am currently occupied with preparing for my 12th exams, I aspire to explore various fields and become proficient in them. While I may lack the skillset now, my plan is to immerse myself in coding and actively participate in events and opportunities to gain practical experience and knowledge. Join me on my journey of continuous learning and growth!</h4>
