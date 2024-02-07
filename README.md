@@ -37,7 +37,7 @@
     </div>
  <div class="section">
       <h2>🔥 Skills <br>
-      <h3>Here are a few programming languages that I am currently learning as a beginner:</h3>
+      <h3>Here are a few programming languages that I am currently learning:</h3>
       <ul>
         <li>HTML</li>
         <li>CSS</li>
