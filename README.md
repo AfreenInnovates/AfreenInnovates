@@ -60,6 +60,12 @@
         </li>
     </ul>
 </div>
+
+<div class="section">
+    <h2>📊 GitHub Repository Languages</h2>
+
+   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfreenInnovates&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
      <hr>
   <h3>⚡ Fun fact...</h3>
   <h4>My brain hurts when I try to learn web development😂</h4>
