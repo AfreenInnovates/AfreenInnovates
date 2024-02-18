@@ -47,6 +47,30 @@
         <li>C++</li>
       </ul>
     </div>
+<div class="section">
+    <h2>🔥 Skills</h2>
+    <h3>Here are a few programming languages that I am currently learning:</h3>
+    <ul>
+        <li>
+            <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+        </li>
+    </ul>
+</div>
      <hr>
   <h3>⚡ Fun fact...</h3>
   <h4>My brain hurts when I try to learn web development😂</h4>
