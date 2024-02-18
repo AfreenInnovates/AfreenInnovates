@@ -35,18 +35,7 @@
       <h3>📫 How to reach me...</h3>
       <p>If you have any questions or would like to connect with me, you can find me on <a href="https://www.linkedin.com/in/hossain-afreen/">LinkedIn</a> or send me an email at: afreenhossain0000@gmail.com</p><hr>
     </div>
- <div class="section">
-      <h2>🔥 Skills <br>
-      <h3>Here are a few programming languages that I am currently learning:</h3>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>Python</li>
-        <li>Java</li>
-        <li>C++</li>
-      </ul>
-    </div>
+  
 <div class="section">
     <h2>🔥 Skills</h2>
     <h3>Here are a few programming languages that I am currently learning:</h3>
