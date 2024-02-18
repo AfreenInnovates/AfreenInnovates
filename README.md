@@ -61,6 +61,8 @@
     </ul>
 </div>
 
+<hr>
+
 <div class="section">
     <h2>📊 GitHub Repository Languages</h2>
 
