@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47maqv4w0psn62ws6zfkb7lc2phr01zxxsk93gc6ul&rid=giphy.gif&ct=g" width="200" height= "150"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/hossain-afreen/">
+  <a href="https://www.linkedin.com/in/afreen007/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
