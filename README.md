@@ -10,7 +10,7 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
 </h1>
   <h3> Hi, I'm Afreen Hossain. 
-  <br> Currently, I am a senior student at Deeksha Institute located in India.</h3>
+  <br> I am a high school graduate student. I'll be enrolling in a college in India, soon :)</h3>
 <hr>
 <div align="center">
  <img src="https://media1.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47qinci6110r8xey5ai53mc2ena9u1g05gn16lcc1u&rid=giphy.gif&ct=g" width="300" height="250"/> <br>
