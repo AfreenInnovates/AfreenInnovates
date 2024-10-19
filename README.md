@@ -10,7 +10,7 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
 </h1>
   <h3> Hi, I'm Afreen Hossain. 
-  <br> I am a high school graduate student. I'll be enrolling in a college in India, soon :)</h3>
+  <br>I'm a freshman studying computer science.</h3>
 <hr>
 <div align="center">
  <img src="https://media1.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47qinci6110r8xey5ai53mc2ena9u1g05gn16lcc1u&rid=giphy.gif&ct=g" width="300" height="250"/> <br>
@@ -63,17 +63,18 @@
 
 <hr>
 
-<div class="section">
-    <h2>📊 GitHub Repository Languages</h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AfreenInnovates&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AfreenInnovates&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AfreenInnovates&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfreenInnovates&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-     <hr>
-  <h3>⚡ Fun fact...</h3>
-  <h4>My brain hurts when I try to learn web development😂</h4>
-     
-  <hr>
-     <h4>Thank you for stopping by, and I hope to connect with you soon!🙂 </h4>
+
+<hr>
+<h4>Thank you for stopping by, and I hope to connect with you soon!🙂 </h4>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
 
  
  
