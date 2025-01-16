@@ -37,29 +37,25 @@
     </div>
   
 <div class="section">
-    <h2>🔥 Skills</h2>
-    <h3>Here are a few programming languages that I am currently learning:</h3>
-    <ul>
-        <li>
-            <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-        </li>
-        <li>
-            <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-        </li>
-        <li>
-            <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
-        </li>
-        <li>
-            <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-        </li>
-        <li>
-            <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-        </li>
-        <li>
-            <img src="https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-        </li>
-    </ul>
+    <h2>🔥 Tech Stack</h2>
+    <h3>Here are the tools and technologies I use:</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+        <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+        <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
+        <img src="https://img.shields.io/badge/SciPy-8ca0d7?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy Badge"/>
+        <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+        <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
+        <img src="https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+        <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+        <img src="https://img.shields.io/badge/Gemini-4285f4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Badge"/>
+        <img src="https://img.shields.io/badge/Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge"/>
+    </div>
 </div>
+
 
 <hr>
 
