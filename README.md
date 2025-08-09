@@ -10,7 +10,7 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
 </h1>
   <h3> Hi, I'm Afreen Hossain. 
-  <br>I'm a freshman in college studying computer science.</h3>
+  <br>I'm a sophomore in college studying computer science.</h3>
 <hr>
 <div align="center">
  <img src="https://media1.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47qinci6110r8xey5ai53mc2ena9u1g05gn16lcc1u&rid=giphy.gif&ct=g" width="300" height="250"/> <br>
@@ -21,8 +21,6 @@
   <h3>🌱 I'm currently learning AI/ML/DS!</h3><h6>Take a peek at my GitHub repositories to explore my current projects :)</h6>
   <h3>I'm interested to explore many fields such as:</h3>
     <ul>
-      <li>DevOps</li>
-      <li>Game development</li>
       <li>Artificial intelligence</li>
       <li>Machine learning</li>
       <li>Cloud computing</li>
