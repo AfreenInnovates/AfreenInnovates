@@ -18,7 +18,7 @@
 </div>
 <div id="about-me"><h2>A quick Look at who I am:</h2>
  <h4>I am preparing to gain admission to an engineering college and have a keen interest in computer science, space exploration, and related technologies.</h4>
-  <h3>🌱 I'm currently learning AI/ML/DS!</h3><h6>Take a peek at my GitHub repositories to explore my current projects :)</h6>
+  <h3>I'm currently learning AI/ML/DS!</h3><h6>Take a peek at my GitHub repositories to explore my current projects :)</h6>
   <h3>I'm interested to explore many fields such as:</h3>
     <ul>
       <li>Artificial intelligence</li>
@@ -30,12 +30,12 @@
 
  <hr>
 <div class="section">
-      <h3>📫 How to reach me...</h3>
+      <h3>How to reach me...</h3>
       <p>If you have any questions or would like to connect with me, you can find me on <a href="https://www.linkedin.com/in/hossain-afreen/">LinkedIn</a> or send me an email at: afreenhossain0000@gmail.com</p><hr>
     </div>
   
 <div class="section">
-    <h2>🔥 Tech Stack</h2>
+    <h2>Tech Stack</h2>
     <h3>Here are the tools and technologies I use:</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
         <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
@@ -57,12 +57,12 @@
 
 <hr>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AfreenInnovates&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AfreenInnovates&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AfreenInnovates&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AfreenInnovates&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <hr>
